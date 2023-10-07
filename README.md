@@ -154,11 +154,16 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Second part of Airbnb: Joann Vuong
+Bello Abdulsamad 
+
+## Fourth part of Airbnb - New Features' description
+
+Link the frontend to backend server - this introduce dynamic user interface
+defining the json schema by following an accepted standization
+Introduce swagger Documentation of the implemented RestApi using flask-swagger extension
+refactor and fix any existing or potential bug
+
 ## License
+
 Public Domain. No copy write protection. 

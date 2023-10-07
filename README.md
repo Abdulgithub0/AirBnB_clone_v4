@@ -159,13 +159,13 @@ Bello Abdulsamad
 
 ## Fourth part of Airbnb - New Features' description
 
-Link the frontend to backend server - this introduce dynamic user interface
+Introduce dynamic communication pipeline between the frontend end and the backend server
 
-defining the json schema by following an accepted standization
+Defining the json schema by following an accepted standization - OpenApi
 
 Introduce swagger Documentation of the implemented RestApi using flask-swagger extension
 
-refactor and fix any existing or potential bug
+Refactor and fix any existing or potential bugs
 
 ## License
 
